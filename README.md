@@ -1,1 +1,1 @@
-# discord-management-nouhayla
+# discord-management
